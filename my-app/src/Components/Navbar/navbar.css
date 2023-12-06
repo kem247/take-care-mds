@@ -1,0 +1,8 @@
+.container {
+  display: flex;
+}
+
+.nav-bar {
+  display: inline-block;
+  width:fit-content;
+}
